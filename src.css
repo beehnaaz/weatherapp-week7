@@ -1,0 +1,47 @@
+.fullbody {
+  max-width: 600px;
+  margin: 30px auto;
+  border: 1px solid grey;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+h1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: 600;
+  color: rgb(0, 0, 0);
+}
+ul {
+  color: rgb(81, 81, 81);
+  list-style: none;
+}
+li {
+  text-transform: capitalize;
+}
+.mainimg {
+  width: 25%;
+  margin-left: -19px;
+  padding-right: 0px;
+}
+.city {
+  line-height: 11px;
+}
+.temp {
+  font-size: 20px;
+  padding-left: 100px;
+}
+.strong {
+  font-size: 4px;
+}
+.humidity {
+  margin: 0px 0px;
+}
+.tempreture {
+  font-size: 60px;
+  font-weight: 500px;
+  padding-left: 0px;
+}
+.units {
+  display: inline;
+  padding: 0px;
+}
